@@ -1,6 +1,6 @@
 Getting Started
 
-To get started with GameHub, follow these steps:
+To get started with Game-Over, follow these steps:
 
 Clone this repository to your local machine.
 
